@@ -1,50 +1,11 @@
-# Welcome to your Expo app 👋
+# Welcome to yourAora app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![WhatsApp Image 2024-07-18 at 22 49 05_d444ae98](https://github.com/user-attachments/assets/f8ff145f-d5f8-4a65-b026-8eeea5407305)
 
-## Get started
+![WhatsApp Image 2024-07-18 at 22 49 05_1222ae2b](https://github.com/user-attachments/assets/bac656dd-d0d6-4425-86ee-8d892edd7c24)
 
-1. Install dependencies
+![WhatsApp Image 2024-07-18 at 22 49 06_2d29d944](https://github.com/user-attachments/assets/1c898fd6-734d-48b0-9a84-0e82089e4a61)
 
-   ```bash
-   npm install
-   ```
+![WhatsApp Image 2024-07-18 at 22 49 06_71eb3e48](https://github.com/user-attachments/assets/071285bb-2027-4765-88ff-69ebf1e72a08)
 
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![WhatsApp Image 2024-07-18 at 22 49 06_de3c3d59](https://github.com/user-attachments/assets/53b32cea-679d-4eac-a962-38ca31c24682)
